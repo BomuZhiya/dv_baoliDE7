@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1480711805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01b4874b1e90b84d6367f2d73a933805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f9507eac199949f92fdd91a8b8ddee3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mesh/g26cu_lod4.fbx
+- Assets/Texture/g26cu_2_AlbedoTransparency_sRGB.png
+- Assets/Mesh/g26cu_lod1.fbx
+- Assets/Texture/Aoo_2.png
+- Assets/Texture/Aoo_1.png
+- Assets/Texture/Aoo.png
+- Assets/Mesh/g26cu_lod2.fbx
+- Assets/Texture/Aoo_3.png
+- Assets/Material/5.mat
+- Assets/Texture/g26cu_1_Normal_Raw.png
+- Assets/Material/4.mat
+- Assets/Texture/g26cu_3_AlbedoTransparency_sRGB.png
+- Assets/Material/3.mat
+- Assets/Texture/g26cu_4_AlbedoTransparency_sRGB.png
+- Assets/Mesh/g26cu_lod3.fbx
+- Assets/Texture/g26cu_1_SpecularSmoothness_sRGB.png
+- Assets/Texture/g26cu_2_SpecularSmoothness_sRGB.png
+- Assets/Mesh/g26cu_lod0.fbx
+- Assets/Material/1.mat
+- Assets/Texture/g26cu_4_Normal_Raw.png
+- Assets/Texture/g26cu_3_SpecularSmoothness_sRGB.png
+- Assets/Texture/g26cu_1_AlbedoTransparency_sRGB.png
+- Assets/Material/2.mat
+- Assets/Prefab/g26cu_hk.prefab
+- Assets/Texture/g26cu_4_SpecularSmoothness_sRGB.png
+- Assets/Texture/g26cu_3_Normal_Raw.png
+- Assets/Texture/g26cu_2_Normal_Raw.png
+Dependencies: []
