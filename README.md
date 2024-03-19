@@ -1,6 +1,6 @@
 # Chinese Hongkong G26CU for Derail Valley
 
-todo screenshot
+Resource optimization, bug fixes.
 
 ## Credits
 
