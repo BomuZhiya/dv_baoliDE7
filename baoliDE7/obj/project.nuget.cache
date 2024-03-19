@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXOkuJYyUSWpyh4FIWzp3k3dvIAkHPWJ+RQeSyT43XpR9NnqtuxixtFZ/jJhl290IQJidCH1EVf6/hKPyDKWAg==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\dv_baoliDE7\\baoliDE7\\baoliDE7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dnlib\\3.1.0\\dnlib.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\unitymodmanager\\0.27.2\\unitymodmanager.0.27.2.nupkg.sha512"
+  ],
+  "logs": []
+}
