@@ -1,0 +1,10 @@
+{
+	"Id": "baoliDE7",
+	"Version": "2.1.79",
+	"DisplayName": "G26cu-HongKong",
+	"Author": "Cypress",
+	"EntryMethod": "baoli_DE7.Main.Load",
+	"ManagerVersion": "0.27.3",
+	"Repository": "todo/repository.json",
+	"LoadAfter": ["CR-style_smoke_deflectors"]
+}
