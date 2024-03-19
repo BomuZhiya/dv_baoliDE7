@@ -29,8 +29,9 @@ namespace baoli_DE7
 
 				string assetPath = Path.Combine(MyModEntry.Path, "assetbundles\\");
 
-				g26cu_hPrefab = AssetBundle.LoadFromFile(Path.Combine(assetPath, "CRDE6"))
-					.LoadAsset<GameObject>("Assets/Prefab/g26cu_hk.prefab");
+				var bundle = AssetBundle.LoadFromFile(Path.Combine(assetPath, "CRDE6"));				
+				g26cu_hPrefab = bundle.LoadAsset<GameObject>("Assets/Prefab/g26cu_hk.prefab");
+				bundle.Unload(false);
 			 
 				harmony = new Harmony(MyModEntry.Info.Id);
 				harmony.PatchAll(Assembly.GetExecutingAssembly());
